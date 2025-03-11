@@ -25,7 +25,7 @@
         "terminalDataWriteEvent",
         "terminalExecuteCommandEvent",
         "contribIssueReporter",
-        "terminalShellIntegration"
+        "workspaceTrust"
     ],
     "author": {
         "name": "Microsoft Corporation"
